@@ -1,16 +1,32 @@
-### Hi there 👋
+# Payment-Gateway-Integration_sparksFoundation
+# used :- 
+  
+  Front End :-
+        
+        Html
+        CSS
+        JS
 
-<!--
-**Harsh28r/Harsh28r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!----------------------------------------------->
+web present: codewithharsh.netlify.app
+<!----------------------------------------------->
 
-Here are some ideas to get you started:
+# Gateway Used 👍 :- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    RazorPay
+    
+    
+<!----------------------------------------------->
+<!----------------------------------------------->
+
+This Project was given by THE SPARKS FOUNDATION 
+
+    https://www.thesparksfoundationsingapore.org/
+
+Under the Graduate Rotational Internship Program (GRIP)
+
+    https://www.thesparksfoundationsingapore.org/join-us/internship-positions/
+
+
+
+ 
