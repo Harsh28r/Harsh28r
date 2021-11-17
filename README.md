@@ -25,8 +25,7 @@ for the payment received. The invoice will contain the amount.
         JS
 
 <!----------------------------------------------->
-web present: https://codewithhg.000webhostapp.com/
-
+web present: codewithharsh.netlify.app
 <!----------------------------------------------->
 
 # Gateway Used 👍 :- 
